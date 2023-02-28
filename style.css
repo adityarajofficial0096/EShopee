@@ -424,3 +424,8 @@ body
     background: #088178;
     border: 1px solid #088178;
 }
+
+#sm-banner .banner-box2
+{
+    background-image: url("img/banner/b10.jpg");
+}
