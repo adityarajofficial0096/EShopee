@@ -429,3 +429,25 @@ body
 {
     background-image: url("img/banner/b10.jpg");
 }
+
+#banner-3 .banner-box
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    background-image: url("img/banner/b7.jpg");
+    min-width: 30%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#banner-3 h2
+{
+    color: #ec544e;
+    font-weight: 800;
+    font-size: 15px;
+}
