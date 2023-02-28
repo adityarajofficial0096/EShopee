@@ -425,6 +425,14 @@ body
     border: 1px solid #088178;
 }
 
+#banner3
+{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 0 80px;
+}
+
 #sm-banner .banner-box2
 {
     background-image: url("img/banner/b10.jpg");
