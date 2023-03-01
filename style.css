@@ -438,7 +438,7 @@ body
     background-image: url("img/banner/b10.jpg");
 }
 
-#banner-3 .banner-box
+#banner3 .banner-box
 {
     display: flex;
     flex-direction: column;
@@ -453,7 +453,17 @@ body
     margin-bottom: 20px;
 }
 
-#banner-3 h2
+#banner3 .banner-box2
+{
+    background-image: url("img/banner/b4.jpg");
+}
+
+#banner3 .banner-box3
+{
+    background-image: url("img/banner/b18.jpg");
+}
+
+#banner3 h2
 {
     color: #ec544e;
     font-weight: 800;
