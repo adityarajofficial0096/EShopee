@@ -523,6 +523,8 @@ body
     border: 1px solid transparent;
     border-radius: 4px;
     outline: none;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
 }
 
 #newsletter button
