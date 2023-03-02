@@ -508,6 +508,12 @@ body
     color: #ffbd27;
 }
 
+#newsletter .form
+{
+    display: flex;
+    width: 40%;
+}
+
 #newsletter input
 {
     height: 3.125rem;
