@@ -663,6 +663,7 @@ footer .follow i:hover
     }
     #close
     {
+        display: initial;
         position: absolute;
         top: 30px;
         left: 30px;
