@@ -661,4 +661,8 @@ footer .follow i:hover
         font-size: 30px;
 
     }
+    #lg-bag
+    {
+        display: none;
+    }
 }
