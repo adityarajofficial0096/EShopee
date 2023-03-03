@@ -151,6 +151,11 @@ body
     align-items: center;
 }
 
+#close
+{
+    display: none;
+}
+
 
 
 /* Home Page */
