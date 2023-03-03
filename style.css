@@ -684,4 +684,29 @@ footer .follow i:hover
     {
         margin: 15px 15px;
     }
+    #product1 .pro-container
+    {
+        justify-content: center ;
+    }
+    #product1 .pro
+    {
+        margin: 15px;
+    }
+    #banner 
+    {
+        height: 20vh;
+    }
+    #sm-banner .banner-box
+    {
+        min-width: 100%;
+        height: 30vh;
+    }
+    #banner3
+    {
+        padding: 0 40px;
+    }
+    #banner3 .banner-box
+    {
+        min-width: 70%;
+    }
 }
