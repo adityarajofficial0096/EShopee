@@ -713,7 +713,11 @@ footer .follow i:hover
     }
     #banner3 .banner-box
     {
-        min-width: 70%;
+        width: 28%;
+    }
+    #newsletter .form
+    {
+        width: 70%;
     }
 }
 
