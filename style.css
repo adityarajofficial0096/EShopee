@@ -826,6 +826,12 @@ footer .copyright
     z-index: -1;
 }
 
+/* About Us */
+#page-header.about-header
+{
+    background-image: url("img/about/banner.png");
+}
+
 
 /* Start Media Query */
 
