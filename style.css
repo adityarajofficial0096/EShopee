@@ -672,6 +672,15 @@ footer .copyright
 }
 
 
+/* Single Product Details */
+
+#prodetails .single-pro-image
+{
+    width: 40%;
+    margin-right: 50px;
+}
+
+
 /* Start Media Query */
 
 @media (max-width:799px)
