@@ -808,6 +808,12 @@ footer .copyright
     color: #088178;
 }
 
+#blog .blog-details a:hover::after
+{
+    background-color: #088178;
+}
+
+
 /* Start Media Query */
 
 @media (max-width:799px)
