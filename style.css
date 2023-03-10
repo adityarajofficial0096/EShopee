@@ -932,6 +932,14 @@ footer .copyright
     height: 100%;
 }
 
+#contact-details form
+{
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
 /* Start Media Query */
 
 @media (max-width:799px)
