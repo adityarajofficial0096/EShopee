@@ -844,6 +844,11 @@ footer .copyright
     height: auto;
 }
 
+#about-head div
+{
+    padding-left: 40px;
+}
+
 
 /* Start Media Query */
 
