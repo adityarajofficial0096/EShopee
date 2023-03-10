@@ -849,6 +849,11 @@ footer .copyright
     padding-left: 40px;
 }
 
+#about-app
+{
+    text-align: center;
+}
+
 
 /* Start Media Query */
 
