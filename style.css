@@ -889,7 +889,8 @@ footer .copyright
 
 }
 
-#contact-details .details h2
+#contact-details .details h2,
+#form-details form h2
 {
     font-size: 26px;
     line-height: 35px;
