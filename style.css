@@ -803,6 +803,10 @@ footer .copyright
     right: -60px;
 }
 
+#blog .blog-details a:hover
+{
+    color: #088178;
+}
 
 /* Start Media Query */
 
