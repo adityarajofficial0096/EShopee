@@ -1006,6 +1006,11 @@ footer .copyright
     white-space: nowrap;
 }
 
+#cart table img
+{
+    width: 70px;
+}
+
 /* Start Media Query */
 
 @media (max-width:799px)
