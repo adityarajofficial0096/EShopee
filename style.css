@@ -1095,6 +1095,13 @@ footer .copyright
     border: 1px solid #e2e9e1;
 }
 
+#coupon button
+{
+    background-color: #088178;
+    color: #fff;
+    padding: 12px 20px;
+}
+
 /* Start Media Query */
 
 @media (max-width:799px)
