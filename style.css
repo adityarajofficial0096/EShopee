@@ -104,6 +104,11 @@ body
     left: 0; 
 }
 
+#header .logo
+{
+    width: 40%;
+}
+
 #navbar
 {
     display: flex;
@@ -568,6 +573,7 @@ footer .col
 
 footer .logo
 {
+    width: 40%;
     margin-bottom: 30px;
 }
 
