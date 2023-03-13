@@ -1420,4 +1420,8 @@ footer .copyright
     {
         flex-direction: column;
     }
+    #coupon
+    {
+        width: 100%;
+    }
 }
