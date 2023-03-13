@@ -1110,6 +1110,13 @@ footer .copyright
     padding: 30px;
 }
 
+#subtotal table
+{
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
 /* Start Media Query */
 
 @media (max-width:799px)
