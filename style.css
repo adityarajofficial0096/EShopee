@@ -1043,6 +1043,12 @@ footer .copyright
     padding: 10px 5px 10px 15px;
 }
 
+#cart table thread
+{
+    border: 1px solid #e2e9e1;
+    border-left: none;
+    border-right: none;
+}
 /* Start Media Query */
 
 @media (max-width:799px)
