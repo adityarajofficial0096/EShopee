@@ -1049,6 +1049,15 @@ footer .copyright
     border-left: none;
     border-right: none;
 }
+
+#cart table thread td
+{
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 13px;
+    padding: 18px 0;
+}
+
 /* Start Media Query */
 
 @media (max-width:799px)
