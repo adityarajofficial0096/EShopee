@@ -1063,6 +1063,11 @@ footer .copyright
     padding-top: 15px;
 }
 
+#cart table tbody td
+{
+    font-size: 13px;
+}
+
 /* Start Media Query */
 
 @media (max-width:799px)
