@@ -1081,6 +1081,11 @@ footer .copyright
     margin-top: 30px;
 }
 
+#coupon h3
+{
+    padding-bottom: 15px;   
+}
+
 /* Start Media Query */
 
 @media (max-width:799px)
