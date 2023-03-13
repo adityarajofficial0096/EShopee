@@ -1086,6 +1086,15 @@ footer .copyright
     padding-bottom: 15px;   
 }
 
+#coupon input
+{
+    padding: 10px 20px;
+    outline: none;
+    width: 60%;
+    margin-right: 10px;
+    border: 1px solid #e2e9e1;
+}
+
 /* Start Media Query */
 
 @media (max-width:799px)
