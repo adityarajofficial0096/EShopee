@@ -998,6 +998,12 @@ footer .copyright
 }
 
 /* Cart Page */
+
+#cart
+{
+    overflow-y: auto;
+}
+
 #cart table
 {
     width: 100%;
