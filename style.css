@@ -122,6 +122,7 @@ body
     padding: 0 20px;
     position: relative;
     text-align: center;
+    display: inline-block;
 }
 
 #navbar li a
