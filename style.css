@@ -328,6 +328,12 @@ form.signform
     text-align: center;
 }
 
+h1.formh1
+{
+    font-weight: bold;
+    margin: 0;
+}
+
 #product1 .pro-container
 {
     display: flex;
