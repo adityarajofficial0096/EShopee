@@ -413,6 +413,11 @@ button.form-btn:active
     z-index: 100;
 }
 
+.form-container.right-panel-active .overlay-container
+{
+    transform: translateX(-100%);
+}
+
 #product1 .pro-container
 {
     display: flex;
