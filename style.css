@@ -79,12 +79,6 @@ button.white
     transition: 0.2s;
 }
 
-
-body
-{
-    width: 100%;
-}
-
 /* For Sign-Up page */
 
 body.signup
