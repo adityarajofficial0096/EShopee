@@ -285,6 +285,22 @@ body.signup
     text-align: center;
 }
 
+/* For Sign-Up Page */
+
+.container
+{
+    position: relative;
+    width: 768px;
+    max-width: 100%;
+    min-height: 480px;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 
+                0 10px 10px rgba(0, 0, 0, 0.022)
+}
+
+
 #product1 .pro-container
 {
     display: flex;
