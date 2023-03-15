@@ -378,6 +378,11 @@ button.form-btn
     cursor: pointer;
 }
 
+button.form-btn:active
+{
+    transform: scale(0.90);
+}
+
 #product1 .pro-container
 {
     display: flex;
