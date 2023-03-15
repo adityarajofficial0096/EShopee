@@ -343,6 +343,17 @@ p.formpara
     margin: 15px 0 20px;
 }
 
+input.forminput
+{
+    background: #eee;
+    padding: 12px 15px;
+    margin: 8px 15px;
+    width: 100%;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
+
 #product1 .pro-container
 {
     display: flex;
