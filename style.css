@@ -383,6 +383,12 @@ button.form-btn:active
     transform: scale(0.90);
 }
 
+#signIn, #signUp
+{
+    background-color: transparent;
+    border: 2px solid #fff;
+}
+
 #product1 .pro-container
 {
     display: flex;
