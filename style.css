@@ -334,6 +334,15 @@ h1.formh1
     margin: 0;
 }
 
+p.formpara
+{
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 20px;
+    letter-spacing: 0.5px;
+    margin: 15px 0 20px;
+}
+
 #product1 .pro-container
 {
     display: flex;
