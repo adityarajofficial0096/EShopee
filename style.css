@@ -316,6 +316,18 @@ body.signup
     z-index: 2;
 }
 
+form.signform
+{
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 50px;
+    height: 100%;
+    text-align: center;
+}
+
 #product1 .pro-container
 {
     display: flex;
