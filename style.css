@@ -389,6 +389,18 @@ button.form-btn:active
     border: 2px solid #fff;
 }
 
+.form-container.right-panel-active .sign-in
+{
+    transform: translateX(100%);
+}
+
+.form-container.right-panel-active .sign-up
+{
+    transform: translateX(100%);
+    opacity: 1;
+    z-index: 5;
+}
+
 #product1 .pro-container
 {
     display: flex;
