@@ -1642,3 +1642,11 @@ footer .copyright
         padding: 20px;
     }
 }
+
+@media screen and (max-width: 400px) 
+{
+    .form{
+        padding: 20px 10px;
+    }
+    
+}
