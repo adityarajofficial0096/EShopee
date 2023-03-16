@@ -213,6 +213,11 @@ form
     margin-top: 10px;
 }
 
+.form-link a.forgot-pass
+{
+    padding-left: 234px;
+}
+
 .form-link span,
 .form-link a
 {
