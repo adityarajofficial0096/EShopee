@@ -463,6 +463,16 @@ button.form-btn:active
     transform: translateX(0);  
 }
 
+.form-container.right-panel-active .overlay-left
+{
+    transform: translateX(0);
+}
+
+.form-container.right-panel-active .overlay-right
+{
+    transform: translateX(20%);
+}
+
 #product1 .pro-container
 {
     display: flex;
