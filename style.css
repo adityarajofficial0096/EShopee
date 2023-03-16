@@ -161,7 +161,7 @@ form
 .field button
 {
     height: 100%;
-    width: 100%;
+    width: 70%;
     border: none;
     font-size: 14px;
     font-weight: 400;
@@ -170,6 +170,10 @@ form
 
 }
 
+.field 
+{
+    text-align: center;
+}
 .field input
 {
     outline: none;
