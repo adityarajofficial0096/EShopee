@@ -147,7 +147,7 @@ form
 
 .form-check-label 
 {
-    font-size: 12px
+    font-size: 12px;
 }
 
 .form-check-input 
@@ -190,7 +190,7 @@ form
 {
     position: absolute;
     top: 50%;
-    right: 10px;
+    right: 100px;
     transform: translateY(-50%);
     font-size: 18px;
     color: #8b8b8b;
