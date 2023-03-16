@@ -1,84 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Required</title>
+    <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
+    
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <title>Sign UP</title>
 </head>
-<body class="signup">
-    <div class="form-container" id="main">
-        <div class="sign-up">
-            <form class="signform" action="#">
-                <h1 class="formh1">Create Account</h1>
-                <div class="social-container">
-                    <a href="#" class="social"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#" class="social"><i class="fab fa-twitter"></i></a>
-                    <a href="#" class="social"><i class="fab fa-instagram"></i></a>
-                    <a href="#" class="social"><i class="fa-brands fa-linkedin"></i></a>
-                    <a href="#" class="social"><i class="fa-brands fa-pinterest"></i></a>
-                    <a href="#" class="social"><i class="fab fa-youtube"></i></a>
-                </div>
-                <p class="formpara">OR you can use your Email for Registration</p>
-                <input class="forminput" type="text" name="txt" placeholder="Enter First Name" required="">
-                <input class="forminput" type="text" name="txt" placeholder="Enter Last Name" required="">
-                <input class="forminput" type="date" name="date" placeholder="Enter Your Date of Birth" required="">
-                <input class="forminput" type="text" name="txt" placeholder="Enter Your Gender" required="">
-                <input class="forminput" type="number" name="number" placeholder="Enter Your Mobile Number" required="">
-                <input class="forminput" type="email" name="email" placeholder="Your Email" required="">
-                <input class="forminput" type="password" name="password" placeholder="Create New Password" required="">
-                <input class="forminput" type="password" name="password" placeholder="Confirm Password" required="">
-                <button class="form-btn">Sign Up</button>
-            </form>
-        </div>
-        <div class="sign-in">
-            <form class="signform" action="#">
-                <h1 class="formh1">Sign In</h1>
-                <div class="social-container">
-                    <a href="#" class="social"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#" class="social"><i class="fab fa-twitter"></i></a>
-                    <a href="#" class="social"><i class="fab fa-instagram"></i></a>
-                    <a href="#" class="social"><i class="fa-brands fa-linkedin"></i></a>
-                    <a href="#" class="social"><i class="fa-brands fa-pinterest"></i></a>
-                    <a href="#" class="social"><i class="fab fa-youtube"></i></a>
-                </div>
-                <p class="formpara">Already have an account, Login Here !!</p>
-                <input class="forminput" type="email" name="email" placeholder="Your Email" required="">
-                <input class="forminput" type="password" name="password" placeholder="Enter Your Password" required="">
-                <a href="Forget Your Password ?" class="social"></a>
-                <button class="form-btn">Sign In</button>
-            </form>
-        </div>
-        <div class="overlay-container">
-            <div class="overlay">
-                <div class="overlay-left">
-                    <h1 class="formh1">Welcome Back !!</h1>
-                    <p class="formpara">To Keep Connected with us, Please Login with Your Personal Info.</p>
-                    <button id="signIn" class="form-btn">Sign In</button>
-                </div>
-                <div class="overlay-right">
-                    <h1 class="formh1">Hey, Folks !!</h1>
-                    <p class="formpara">To Keep Connected with us, Please Login with Your Personal Info.</p>
-                    <button id="signUp" class="form-btn">Sign Up</button>
-                </div>
-            </div>
-        </div>
-    </div>
 
-    <script type="text/javascript">
-        const signUpButton = document.getElementById('signUp')
-        const signInButton = document.getElementById('signIn')
-        const main = document.getElementById('main')
-
-        signUpButton.addEventListener('click', () =>
-        {
-            main.classList.add("right-panel-active");
-        });
-        signInButton.addEventListener('click', () =>
-        {
-            main.classList.remove("right-panel-active");
-        });
-    </script>
-</body>
+<body>
+        <script src="script.js"></script>
+    </body>
 </html>
