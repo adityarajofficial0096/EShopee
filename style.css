@@ -182,7 +182,7 @@ form
 .field button
 {
     color: #fff;
-    background-color: #0171d3;
+    background: linear-gradient(to right, #ff4b28, #ff228c);
     transition: all 0.3s ease;
     cursor: pointer;
 }
