@@ -133,7 +133,7 @@ header
 
 form
 {
-    margin-top: 90px;
+    margin-top: 30px;
 }
 
 .form .field
@@ -265,6 +265,8 @@ form
 
 .media-options a
 {
+    margin: auto;
+    margin-bottom: 20px;
     max-width: 70%;
     display: flex;
     align-items: center;
