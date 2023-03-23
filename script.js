@@ -71,3 +71,10 @@ const forms = document.querySelector(".forms"),
             )
         }
     )
+
+
+var today = new Date();
+var date = today.toLocaleDateString();
+var time = today.toLocaleTimeString();
+var datetime = date + ' ' + time;
+document.getElementById("datetime").innerHTML = datetime;
